@@ -31,3 +31,4 @@ Special thanks to JetBRAINS for [Resharper](https://www.jetbrains.com/resharper/
 * ChangeLog: [ChangeLog.md](GitUI/Resources/ChangeLog.md)
 * Source code: [http://github.com/gitextensions/gitextensions](http://github.com/gitextensions/gitextensions)
 * Wiki: [https://github.com/gitextensions/gitextensions/wiki](https://github.com/gitextensions/gitextensions/wiki)
+* Donate: [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WAL2SSDV8ND54&lc=US&item_name=GitExtensions&no_note=1&no_shipping=1&currency_code=EUR&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
